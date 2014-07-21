@@ -13,3 +13,4 @@ The skeleton files are:
 * system_stm32f10x.c
 * system_stm32f10x.h
 
+The developer code is placed in main.c
