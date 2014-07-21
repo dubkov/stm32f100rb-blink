@@ -5,6 +5,8 @@ Simple skeleton project for STM32F100RB Vl Discovery in Keil uVision
 
 Everything works if Keil files is placed in c:\devel\keil during installation
 
+The developer code is placed in main.c
+
 The skeleton files are:
 
 * core_cm3.c
@@ -13,4 +15,4 @@ The skeleton files are:
 * system_stm32f10x.c
 * system_stm32f10x.h
 
-The developer code is placed in main.c
+The other files are placed automatically by IDE
