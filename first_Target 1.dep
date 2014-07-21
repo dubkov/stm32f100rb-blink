@@ -1,0 +1,14 @@
+Dependencies for Project 'first', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_md_vl.s)(0x532C012A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\devel\keil\ARM\RV31\INC-I C:\devel\keil\ARM\CMSIS\Include-I C:\devel\keil\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_md_vl.lst --xref -o .\startup_stm32f10x_md_vl.o --depend .\startup_stm32f10x_md_vl.d)
+F (.\core_cm3.c)(0x4C0C668E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\inc-I C:\devel\keil\ARM\RV31\INC-I C:\devel\keil\ARM\CMSIS\Include-I C:\devel\keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD_VL-o .\core_cm3.o --omf_browse .\core_cm3.crf --depend .\core_cm3.d)
+I (C:\devel\keil\ARM\ARMCC\include\stdint.h)(0x51C7D364)
+F (.\main.c)(0x53CD1476)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\inc-I C:\devel\keil\ARM\RV31\INC-I C:\devel\keil\ARM\CMSIS\Include-I C:\devel\keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD_VL-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (stm32f10x.h)(0x4D784AC4)
+I (core_cm3.h)(0x4D524968)
+I (C:\devel\keil\ARM\ARMCC\include\stdint.h)(0x51C7D364)
+I (system_stm32f10x.h)(0x4D784ABA)
+F (.\system_stm32f10x.c)(0x4D784AC0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\inc-I C:\devel\keil\ARM\RV31\INC-I C:\devel\keil\ARM\CMSIS\Include-I C:\devel\keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD_VL-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (stm32f10x.h)(0x4D784AC4)
+I (core_cm3.h)(0x4D524968)
+I (C:\devel\keil\ARM\ARMCC\include\stdint.h)(0x51C7D364)
+I (system_stm32f10x.h)(0x4D784ABA)
